@@ -1,0 +1,7 @@
+Bước,Số dòng còn lại,Số dòng bị loại,% còn lại so với gốc
+0. Dữ liệu gốc,541910,0,100.0
+1. Loại dòng trùng lặp hoàn toàn,536642,5268,99.03
+2. Loại dòng thiếu Customer ID,401605,135037,74.11
+3. Tách hóa đơn hủy (Invoice 'C...'),392733,8872,72.47
+4. Loại Quantity <= 0 hoặc Price <= 0,392693,40,72.46
+"5. Loại mã không phải sản phẩm (POST, M, ...)",391150,1543,72.18
